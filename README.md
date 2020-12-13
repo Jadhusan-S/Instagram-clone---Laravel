@@ -1,3 +1,5 @@
 # Instagram-clone---Laravel
 
-Have a NICE DAY
+## Clone Of A Social Media Platform
+
+
