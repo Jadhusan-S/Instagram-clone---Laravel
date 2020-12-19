@@ -1,5 +1,5 @@
 # Instagram-clone---Laravel
 
-## Clone Of A Social Media Platform
+## Clone Of A Social Media Platform.
 
 
